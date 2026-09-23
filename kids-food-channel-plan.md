@@ -25,7 +25,7 @@
   2. **Unsatisfying or off-putting content.** Emotionally manipulative formulas, stories that feel interchangeable, content made only to shock, *repetitive distress scenarios*, and *AI clips that lack a coherent narrative*.
   3. **AI personas giving advice on sensitive topics** (health, legal, finance). This is relevant to you: don't have a cartoon "nutritionist" give health claims.
 - YouTube says its rules don't depend on which tool you use. AI-assisted content is allowed when it is original and has value.
-- **Reported enforcement:** a Bible-stories kids channel (about 588K subscribers) was demonetized across the whole channel in early 2026. A third-party report also says an AI kids channel earning about $4.25M a year was taken down in April 2026. Both reports come from third-party blogs, not from YouTube.
+- **Reported enforcement:** an AI story channel for kids (about 588K subscribers) was demonetized across the whole channel in early 2026. A third-party report also says an AI kids channel earning about $4.25M a year was taken down in April 2026. Both reports come from third-party blogs, not from YouTube.
 
 ### 2.2 Kids-specific pressure
 
@@ -205,7 +205,7 @@ Before you commit to a name:
 
 | Weeks | Goals |
 |---|---|
-| 1–2 | Name and handles, character bible, voices, 2 sets, thumbnail template, separate Google account for YouTube |
+| 1–2 | Name and handles, character guide, voices, 2 sets, thumbnail template, separate Google account for YouTube |
 | 3–4 | Make **3 episodes** before launching, and 12 Shorts. Record the recipe segments. Set up a one-page website with email signup. |
 | 5–8 | Launch. Post 1 episode a week and 3–4 Shorts a week, and parent Reels and TikToks 3 times a week. Post 5 pins a week. |
 | 9–12 | Check your numbers (below). Double down on the segment that performs best (Story, 3-Ingredient or Passport). Release the first printable pack. Turn on auto-dub. |

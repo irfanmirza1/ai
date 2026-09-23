@@ -1,4 +1,4 @@
-# Veggie Crew: Character Bible and Flow Prompts
+# Veggie Crew: Character Guide and Flow Prompts
 
 The prompts are ready to paste. Do the steps in order.
 
