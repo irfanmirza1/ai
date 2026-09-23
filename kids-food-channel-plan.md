@@ -271,3 +271,42 @@ Before you commit to a name:
 - [OutlierKit: auto-dubbing for all creators](https://outlierkit.com/resources/youtube-auto-dubbing-all-creators-global-growth-2026/)
 - [TikTok youth safety policy](https://www.tiktok.com/safety/en/policies-and-engagement/youth-safety)
 - [Kidoodle.TV (liquidation, Aug 2026)](https://en.wikipedia.org/wiki/Kidoodle.TV)
+
+---
+
+## 9. Earnings estimate (added after vidIQ research, 23 Sep 2026)
+
+**Rate used:** vidIQ's calculator gives about **$1.50 per 1,000 views** for a general English kids/entertainment channel with 40% Shorts views. Made for Kids videos usually earn less, about **$0.50–$1.50 per 1,000 views**. The parent recipe videos (not Made for Kids, US audience, Food category) come out at about **$2 per 1,000 views**.
+
+| Stage | Monthly views | YouTube ads | Website, printables, sponsors | Total per month |
+|---|---|---|---|---|
+| Months 1–3 | under 100K | $0 (not in the Partner Program yet) | $0 | **$0** |
+| Months 4–6 | ~300K | $150–450 | $50–200 | **~$200–650** |
+| Months 7–12, if it goes well | 1–2M | $700–3,000 | $200–1,000 | **~$1K–4K** |
+| Year 2, if one series hits | 5–10M | $4K–15K | $1K–5K plus sponsors | **~$5K–20K+** |
+
+These are estimates, not promises. Many channels never get past the first two rows.
+
+### Competitors (vidIQ)
+
+**Hindi AI "talking vegetables" channels launched May–July 2026**
+
+| Channel | Views | Videos | What stands out |
+|---|---|---|---|
+| Alpha Cartoons | 5.1M | 21 (about 245K per video) | Subscriber count is falling |
+| Zigloo Cartoons | 1.3M | 3 | Subscriber count is falling |
+| Brainy Bonga | 690K | 88 | Grows slowly, about 1.6K subscribers |
+
+These channels get views but don't keep subscribers, because the stories don't carry from one video to the next.
+
+**Big channels that show food and characters work long-term**
+
+| Channel | Subscribers | Lifetime views |
+|---|---|---|
+| Peppa's Best Bites (official) | 6.3M | 4.2B |
+| José Totoy (Brazil, healthy eating) | 21.8M | 1.2B |
+
+### What this means for you
+
+- **English is less crowded than Hindi.** Use English as the main language, and let YouTube auto-dub into Hindi, Urdu, Spanish and Portuguese.
+- **The biggest audiences for kids' keywords are in India, Pakistan and the US.**
