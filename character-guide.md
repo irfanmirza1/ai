@@ -1,4 +1,4 @@
-# Veggie Crew: Character Guide and Flow Prompts
+# Munchlings: Character Guide and Flow Prompts
 
 The prompts are ready to paste. Do the steps in order.
 
@@ -118,7 +118,7 @@ Potato Pete from the reference image, full body, facing camera, standing, wearin
 
 ---
 
-### 🌽 5. Corny
+### 🌽 5. Kernel Kai
 **Personality:** full of energy, loves music and dancing, and turns every lesson into a song.
 **Role in stories:** leads the recap song at the end of each episode.
 **Catchphrase:** "Pop pop hooray!"
@@ -126,19 +126,19 @@ Potato Pete from the reference image, full body, facing camera, standing, wearin
 
 **Sheet prompt**
 ```
-Character turnaround sheet of "Corny", a cute corn-on-the-cob character: slim yellow corn cob body with rows of shiny rounded kernels, green husk leaves around the shoulders like a little open jacket, silky light-yellow corn-silk hair on top, big sparkly blue eyes, huge happy smile, stubby arms and small round feet. Show front view, side view, back view, and 4 facial expressions (singing, dancing joy, winking, cheering) on a plain white background, same character in every view.
+Character turnaround sheet of "Kernel Kai", a cute corn-on-the-cob character: slim yellow corn cob body with rows of shiny rounded kernels, green husk leaves around the shoulders like a little open jacket, silky light-yellow corn-silk hair on top, big sparkly blue eyes, huge happy smile, stubby arms and small round feet. Show front view, side view, back view, and 4 facial expressions (singing, dancing joy, winking, cheering) on a plain white background, same character in every view.
 [STYLE LOCK]
 ```
 
 **Hero frame prompt**
 ```
-Corny from the reference image, full body, facing camera, standing, arms relaxed, big smile with mouth closed, eyes looking at camera, plain light cream background, centered, sharp and high detail.
+Kernel Kai from the reference image, full body, facing camera, standing, arms relaxed, big smile with mouth closed, eyes looking at camera, plain light cream background, centered, sharp and high detail.
 [STYLE LOCK]
 ```
 
 **Jogg voice:** a kid (boy or girl), very energetic and sing-song. High pitch, speed 1.1×.
 
-> ⚠️ Corny's catchphrase is fine, but **never show popcorn as a snack for toddlers.** Popcorn is a choking hazard for children under 4.
+> ⚠️ Kernel Kai's catchphrase is fine, but **never show popcorn as a snack for toddlers.** Popcorn is a choking hazard for children under 4.
 
 ---
 
@@ -146,7 +146,7 @@ Corny from the reference image, full body, facing camera, standing, arms relaxed
 
 Add all 5 hero frames as references, then use:
 ```
-The five characters from the reference images standing together in a row, left to right: Carrot Coco (tallest), Broccoli Bob, Potato Pete (biggest, wearing apron), Tomato Tim (shortest, round), Corny. All smiling and waving at the camera, cozy garden kitchen background, wide shot, bright and cheerful.
+The five characters from the reference images standing together in a row, left to right: Carrot Coco (tallest), Broccoli Bob, Potato Pete (biggest, wearing apron), Tomato Tim (shortest, round), Kernel Kai. All smiling and waving at the camera, cozy garden kitchen background, wide shot, bright and cheerful.
 [STYLE LOCK]
 ```
 
@@ -215,7 +215,7 @@ Medium shot of Potato Pete from reference stirring a small pot of green soup on 
 [STYLE LOCK]
 ```
 ```
-Wide shot of Corny from reference dancing happily on the kitchen table, arms up, spinning. Camera circles slowly. Joyful party mood. Audio: upbeat kids music, claps, no talking, no voices.
+Wide shot of Kernel Kai from reference dancing happily on the kitchen table, arms up, spinning. Camera circles slowly. Joyful party mood. Audio: upbeat kids music, claps, no talking, no voices.
 [STYLE LOCK]
 ```
 
@@ -246,14 +246,14 @@ Wide shot of Corny from reference dancing happily on the kitchen table, arms up,
 | Carrot Coco | | 1.0× | medium-high |
 | Tomato Tim | | 1.05× | high |
 | Potato Pete | | 0.9× | low |
-| Corny | | 1.1× | high |
+| Kernel Kai | | 1.1× | high |
 
 ---
 
 ## STEP 6: Folder setup (in Google Drive)
 
 ```
-VeggieCrew/
+Munchlings/
   01_characters/   NAME_sheet.png, NAME_hero.png, NAME_talk.png
   02_sets/         garden_kitchen.png, fridge_world.png, market.png, lunchbox.png
   03_episodes/

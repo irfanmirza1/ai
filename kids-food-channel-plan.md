@@ -90,7 +90,7 @@
 
 Combine your three best food ideas into **one world with one cast**:
 
-- **Cast:** Broccoli Bob, Carrot Coco, Tomato Tim, Potato Pete and Corny. They live in a garden kitchen.
+- **Cast:** Broccoli Bob, Carrot Coco, Tomato Tim, Potato Pete and Kernel Kai. They live in a garden kitchen.
 - **Three repeating segments** give variety without becoming a template:
   1. **Story (60–70% of the episode):** a small problem that one character solves.
   2. **"What can we make?" (3 ingredients):** the real recipe.
@@ -107,7 +107,7 @@ Combine your three best food ideas into **one world with one cast**:
 
 ### 3.3 Working names
 
-Veggie Crew Kitchen · The Garden Kitchen Gang · Tiny Tummy Tales · Crunchy Crew
+**Chosen name: Munchlings** (decided 24 Sep 2026). "Veggie Crew" was already taken on YouTube (@veggiecrewofficial), and it also had a corn character called "Corny", so our corn character is now **Kernel Kai**.
 
 Before you commit to a name:
 - Check that the YouTube handle, the .com domain and the Instagram and TikTok handles are all free.

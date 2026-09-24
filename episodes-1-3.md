@@ -1,4 +1,4 @@
-# Veggie Crew: Scripts for Episodes 1–3
+# Munchlings: Scripts for Episodes 1–3
 
 **Key for every shot**
 
@@ -7,7 +7,7 @@
 | 🎬 **FLOW** | A Veo clip from Flow (Ingredients to Video). Paste the style line at the end. Always say "no talking, no voices". |
 | 🗣️ **JOGG** | The character's talking photo in Jogg, with their fixed voice. One line per clip. |
 | 📱 **REAL** | You filming with your phone: hands, the ingredients, the result. |
-| 🎵 **SONG** | Corny's closing song. Put a kids' beat from the YouTube Audio Library under the Jogg Corny voice speaking the words in rhythm. |
+| 🎵 **SONG** | Kai's closing song. Put a kids' beat from the YouTube Audio Library under the Jogg Kai voice speaking the words in rhythm. |
 
 **Rules for every recipe**
 - All recipes are halal-friendly. Use halal-certified cheese.
@@ -22,7 +22,7 @@
 5. The fact and word
 6. The recipe (real footage)
 7. The lesson
-8. Corny's song
+8. Kai's song
 9. Goodbye
 
 ---
@@ -43,9 +43,9 @@
 |---|---|---|---|
 | 1 | 🎬 FLOW | Close-up: Broccoli Bob on the kitchen counter with a paper-towel cape, jumping off a spoon and landing flat on his face. | Boing, then a soft "flop" sound |
 | 2 | 🗣️ JOGG | Bob, lifting his head | **BOB:** "Today... I'm getting a SUPERPOWER!" |
-| 3 | 🎵 | **Jingle:** the 5 characters wave. | "Veggie Crew!" |
+| 3 | 🎵 | **Jingle:** the 5 characters wave. | "Munchlings!" |
 | 4 | 🎬 FLOW | Bob walking slowly across the Garden Kitchen counter, kicking a pea. | Soft sad piano |
-| 5 | 🗣️ JOGG | Bob | **BOB:** "Coco can find anything. Tim makes everyone laugh. Corny can sing." |
+| 5 | 🗣️ JOGG | Bob | **BOB:** "Coco can find anything. Tim makes everyone laugh. Kai can sing." |
 | 6 | 🗣️ JOGG | Bob | **BOB:** "But me? I'm just a tiny tree." |
 | 7 | 🎬 FLOW | Carrot Coco hurrying in with her notebook. | Quick footsteps |
 | 8 | 🗣️ JOGG | Coco | **COCO:** "Bob! Why the sad face?" |
@@ -67,7 +67,7 @@
 | 24 | 🎬 FLOW | All 5 around a plate of golden bites, cheering. Bob stands proud in front. | Cheers |
 | 25 | 🗣️ JOGG | Bob | **BOB:** "My superpower is helping kids grow strong! Tiny tree, big me!" |
 | 26 | 🗣️ JOGG | Coco | **COCO:** "See? Everyone is special in their own way." |
-| 27 | 🎬 FLOW + 🎵 | Corny dancing on the table while the others clap. | **SONG** (below) |
+| 27 | 🎬 FLOW + 🎵 | Kai dancing on the table while the others clap. | **SONG** (below) |
 | 28 | 🗣️ JOGG | Tim, waving | **TIM:** "Try ONE new food this week! Bye-bye!" |
 | 29 | End card | The group picture and "Next time: Tomato Tim's Big Oops!" | Jingle |
 
@@ -89,14 +89,14 @@
 | 5 | An adult putting the tray in the oven (180°C / 350°F, 15–18 minutes) | "Grown-ups use the oven. Now... we wait!" |
 | 6 | Golden bites on a plate, a child's hand takes one | "Ta-da! Broccoli Cheese Bites!" |
 
-**Corny's song**
+**Kai's song**
 > 🎵 Tiny tree, tiny tree, strong as strong can be!
 > Soup or pasta, crunchy bite, broccoli makes me feel just right!
 > Pop pop hooray!
 
 ### Upload details
 
-- **Title:** Broccoli Bob Wants a Superpower! 🥦 | Veggie Crew Kids Cartoon + Easy Recipe
+- **Title:** Broccoli Bob Wants a Superpower! 🥦 | Munchlings Kids Cartoon + Easy Recipe
 - **Thumbnail:** Bob in his paper cape, shocked face, with a plate of golden bites. Text: "MY SUPERPOWER?!"
 - **Shorts to cut from this episode:**
   1. Tim's "super ROUND" slip, shots 12–14
@@ -120,7 +120,7 @@
 |---|---|---|---|
 | 1 | 🎬 FLOW | Coco has built a tall tower of sugar cubes on the counter. Tim rolls fast and CRASH, the tower falls. | Rolling, then a crash |
 | 2 | 🗣️ JOGG | Tim, frozen | **TIM:** "Oops... a... tomato." |
-| 3 | 🎵 | Jingle | "Veggie Crew!" |
+| 3 | 🎵 | Jingle | "Munchlings!" |
 | 4 | 🗣️ JOGG | Coco, upset | **COCO:** "Tim! That took me ALL morning!" |
 | 5 | 🎬 FLOW | Tim rolls away quickly and disappears into Fridge World. | Whoosh, fridge door |
 | 6 | 🗣️ JOGG | Bob, worried | **BOB:** "Where did Tim go?" |
@@ -141,7 +141,7 @@
 | 21 | 📱 REAL | **Recipe (about 70s).** See below. | Pete and Tim's voices (Jogg audio) |
 | 22 | 🎬 FLOW | All 5 rebuilding the sugar tower together, laughing. | Cheers |
 | 23 | 🗣️ JOGG | Tim | **TIM:** "When I make a mistake, I say sorry and help fix it!" |
-| 24 | 🎬 FLOW + 🎵 | Corny dancing. | **SONG** |
+| 24 | 🎬 FLOW + 🎵 | Kai dancing. | **SONG** |
 | 25 | 🗣️ JOGG | Tim | **TIM:** "Oops-a-tomato... it's okay! Bye-bye!" |
 | 26 | End card | "Next time: Food Passport: PAKISTAN!" | Jingle |
 
@@ -163,14 +163,14 @@
 | 5 | An adult puts them in the oven (200°C / 400°F, 6–8 minutes) until the cheese melts | **Pete:** "A grown-up uses the oven." |
 | 6 | The finished toasts on a plate | **Pete:** "Ta-da! Mini Pizza Toasts!" |
 
-**Corny's song**
+**Kai's song**
 > 🎵 Oops, oops, that's okay, say you're sorry, fix it, play!
 > Tomato's red and full of seeds, a fruit that's friendly, yes indeed!
 > Pop pop hooray!
 
 ### Upload details
 
-- **Title:** Tomato Tim's Big Oops! 🍅 | Is a Tomato a FRUIT? | Veggie Crew Kids Cartoon
+- **Title:** Tomato Tim's Big Oops! 🍅 | Is a Tomato a FRUIT? | Munchlings Kids Cartoon
 - **Thumbnail:** Tim with a shocked face in front of a falling tower. Text: "I'M A FRUIT?!"
 - **Shorts to cut from this episode:**
   1. The tower crash, shots 1–2
@@ -200,14 +200,14 @@ Colorful Pakistani street market in the afternoon: small food stalls, a hot roun
 |---|---|---|---|
 | 1 | 🎬 FLOW | The Magic Lunchbox on the counter suddenly glows and shakes. | Magic hum, sparkles |
 | 2 | 🗣️ JOGG | Coco, excited | **COCO:** "The Magic Lunchbox is glowing! That means... FOOD PASSPORT!" |
-| 3 | 🎵 | Jingle | "Veggie Crew!" |
+| 3 | 🎵 | Jingle | "Munchlings!" |
 | 4 | 🎬 FLOW | A paper clue floats out of the lunchbox into Coco's hands. | Paper flutter |
 | 5 | 🗣️ JOGG | Coco, reading | **COCO:** "Round and flat, soft and flaky, cooked on a hot pan..." |
 | 6 | 🗣️ JOGG | Tim | **TIM:** "A pancake? A pizza? A frisbee?!" |
 | 7 | 🗣️ JOGG | Pete, smiling | **PETE:** "Let's go and find out!" |
 | 8 | 🎬 FLOW | All 5 jump into the glowing lunchbox, one by one. | Whoosh and a "pop pop" |
 | 9 | 🎬 FLOW | The crew lands in the colorful Pakistani street market and looks around amazed. | Happy music, market sounds |
-| 10 | 🗣️ JOGG | Corny | **CORNY:** "Look at all the colors! Where ARE we?" |
+| 10 | 🗣️ JOGG | Kai | **KAI:** "Look at all the colors! Where ARE we?" |
 | 11 | 🗣️ JOGG | Coco, with her notebook | **COCO:** "We're in... PAKISTAN!" *(a flag appears)* |
 | 12 | 🎬 FLOW | Close-up of the stall: a round golden flatbread cooking on the hot tawa. Steam rises. | Sizzle |
 | 13 | 🗣️ JOGG | Pete | **PETE:** "That's a PARATHA! People love it for breakfast." |
@@ -220,7 +220,7 @@ Colorful Pakistani street market in the afternoon: small food stalls, a hot roun
 | 20 | 📱 REAL | **Recipe (about 80s).** See below. | Pete's voice |
 | 21 | 🎬 FLOW | All 5 around a plate of golden paratha, cheering. | Cheers |
 | 22 | 🗣️ JOGG | Bob | **BOB:** "Trying food from another country is like an adventure!" |
-| 23 | 🎬 FLOW + 🎵 | Corny dancing on a table in the market set. | **SONG** |
+| 23 | 🎬 FLOW + 🎵 | Kai dancing on a table in the market set. | **SONG** |
 | 24 | 🗣️ JOGG | Coco | **COCO:** "Where should the Magic Lunchbox take us next? Bye-bye!" |
 | 25 | End card | The group picture and "Next Food Passport: coming soon!" | Jingle |
 
@@ -241,14 +241,14 @@ Colorful Pakistani street market in the afternoon: small food stalls, a hot roun
 | 4 | **An adult only**, cooking on a hot tawa or pan with a little ghee, both sides | "The pan is very hot. Only grown-ups cook it!" |
 | 5 | A golden paratha on a plate, a child tearing a piece | "Ta-da! Paratha! Mazedaar!" |
 
-**Corny's song**
+**Kai's song**
 > 🎵 Round and flaky, hot and new, paratha made for me and you!
 > Fold the layers, one, two, three, mazedaar, yes, yummy for me!
 > Pop pop hooray!
 
 ### Upload details
 
-- **Title:** Food Passport: PAKISTAN! 🇵🇰 | What is Paratha? | Veggie Crew Kids Cartoon
+- **Title:** Food Passport: PAKISTAN! 🇵🇰 | What is Paratha? | Munchlings Kids Cartoon
 - **Thumbnail:** The crew in the colorful market, with a big golden paratha. Text: "MAZEDAAR!"
 - **Shorts to cut from this episode:**
   1. The jump into the lunchbox and the arrival in Pakistan
@@ -260,7 +260,7 @@ Colorful Pakistani street market in the afternoon: small food stalls, a hot roun
 ## Description template (use it for every episode)
 
 ```
-Join the Veggie Crew! 🥦🥕🍅🥔🌽 In today's episode, [one sentence story].
+Join the Munchlings! 🥦🥕🍅🥔🌽 In today's episode, [one sentence story].
 
 🧠 Today's fact: [fact]
 📖 Today's word: [word]
@@ -269,12 +269,12 @@ Join the Veggie Crew! 🥦🥕🍅🥔🌽 In today's episode, [one sentence sto
 👨‍👩‍👧 Parents: free printable recipe card + colouring page 👉 [website link]
 ⚠️ Always cook with a grown-up. Contains: [egg / dairy / gluten].
 
-Animation made with AI tools; story, recipe and voices directed by the Veggie Crew team.
+Animation made with AI tools; story, recipe and voices directed by the Munchlings team.
 ```
 
 ## Publish checklist
 
 - [ ] Set the audience to **"Yes, it's made for kids"** for the episodes. The parent recipe clips are **not** made for kids.
 - [ ] Turn on auto-dubbing (in Studio, under Languages).
-- [ ] Add each episode to a **playlist**: "Veggie Crew: All Episodes".
+- [ ] Add each episode to a **playlist**: "Munchlings: All Episodes".
 - [ ] Post Episodes 1, 2 and 3 a week apart. Post 3 Shorts in between each one.

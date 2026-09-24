@@ -8,7 +8,7 @@ This file has only the German **lines**. The shot numbers match `episodes-1-3.md
 - **English goes on as a second audio track.** Add it in YouTube Studio → Languages. The mouths won't match the English exactly, but that's normal for cartoons and auto-dubs.
 - **Titles and descriptions:** add both German and English (Studio → Languages).
 
-**Names stay the same in both languages:** Bob, Coco, Tim and Pete. The corn character's name is still to be decided (it's written as **[MAIS]** below).
+**Names stay the same in both languages:** Bob, Coco, Tim and Pete. The corn character is **Kernel Kai** ("Kai" for short).
 
 ## Catchphrases (Sprüche)
 
@@ -18,7 +18,7 @@ This file has only the German **lines**. The shot numbers match `episodes-1-3.md
 | 🥕 Coco | Let's find out! | **Finden wir's heraus!** |
 | 🍅 Tim | Oops-a-tomato! | **Hoppla-Tomate!** |
 | 🥔 Pete | Slow and steady makes it ready. | **Langsam und fein, so wird's gut sein.** |
-| 🌽 [MAIS] | Pop pop hooray! | **Popp, popp, hurra!** |
+| 🌽 Kai | Pop pop hooray! | **Popp, popp, hurra!** |
 
 **Words that appear on screen and in the story**
 
@@ -34,7 +34,7 @@ This file has only the German **lines**. The shot numbers match `episodes-1-3.md
 | # | Wer | Deutsch |
 |---|---|---|
 | 2 | BOB | „Heute... bekomme ich eine SUPERKRAFT!" |
-| 5 | BOB | „Coco findet alles. Tim bringt alle zum Lachen. [MAIS] kann singen." |
+| 5 | BOB | „Coco findet alles. Tim bringt alle zum Lachen. Kai kann singen." |
 | 6 | BOB | „Und ich? Ich bin nur ein kleiner Baum." |
 | 8 | COCO | „Bob! Warum so traurig?" |
 | 9 | BOB | „Alle haben eine Superkraft. Nur ich nicht." |
@@ -60,7 +60,7 @@ This file has only the German **lines**. The shot numbers match `episodes-1-3.md
 5. „Den Ofen machen nur Erwachsene. Jetzt... warten wir!"
 6. „Tadaa! Brokkoli-Käse-Happen!"
 
-**Lied ([MAIS])**
+**Lied (Kai)**
 > 🎵 Kleiner Baum, kleiner Baum, stark wie im Traum!
 > Suppe, Nudeln, knackig fein, Brokkoli macht mich groß, nicht klein!
 > Popp, popp, hurra!
@@ -114,7 +114,7 @@ This file has only the German **lines**. The shot numbers match `episodes-1-3.md
 | 5 | COCO | „Rund und flach, weich und blättrig, gebacken in einer heißen Pfanne..." |
 | 6 | TIM | „Ein Pfannkuchen? Eine Pizza? Ein Frisbee?!" |
 | 7 | PETE | „Lasst es uns herausfinden!" |
-| 10 | [MAIS] | „Schaut euch all die Farben an! Wo SIND wir?" |
+| 10 | Kai | „Schaut euch all die Farben an! Wo SIND wir?" |
 | 11 | COCO | „Wir sind in... PAKISTAN!" |
 | 13 | PETE | „Das ist ein PARATHA! Die Leute lieben es zum Frühstück." |
 | 14 | PETE | „Wusstest du das? Es ist so blättrig, weil der Teig in SCHICHTEN gefaltet wird." *(on screen: SCHICHTEN)* |
