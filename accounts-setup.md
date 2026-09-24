@@ -160,14 +160,15 @@ Flow can misspell text. If the word "Munchlings" comes out wrong, generate the p
 
 ## Checklist
 
+**Handles you got:** `@munchlingskids` on Instagram, TikTok and Pinterest.
+
 - [ ] Gmail secured with 2-Step Verification
-- [ ] YouTube channel "Munchlings", set to made for kids, country Germany, description in German and English
+- [x] YouTube channel created (ID `UCeb5TiEV0HajChm5p1zjoGw`)
+- [ ] YouTube: profile picture, banner, description (German + English), country Germany, made for kids. *As of 24 Sep 2026, vidIQ still shows the channel with no description, no country and the default picture.*
 - [x] Instagram @munchlingskids
 - [x] TikTok @munchlingskids
 - [x] Pinterest @munchlingskids
 - [x] Facebook page (id 61594333997519)
-- [x] YouTube channel UCeb5TiEV0HajChm5p1zjoGw
 - [x] Domain munchlings.de
 - [ ] Profile pictures and banners uploaded (the files are in `brand/`)
-
-**Write down the handles you actually got and send them to me.**
+- [ ] Website: real name and address in `impressum.html` and `datenschutz.html` (the copies in this repo still have the `[…]` placeholders)
