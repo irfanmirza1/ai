@@ -162,9 +162,12 @@ Flow can misspell text. If the word "Munchlings" comes out wrong, generate the p
 
 - [ ] Gmail secured with 2-Step Verification
 - [ ] YouTube channel "Munchlings", set to made for kids, country Germany, description in German and English
-- [ ] Instagram @________
-- [ ] TikTok @________
-- [ ] Pinterest @________
-- [ ] Domain munchlings.com (optional, about $10 a year)
+- [x] Instagram @munchlingskids
+- [x] TikTok @munchlingskids
+- [x] Pinterest @munchlingskids
+- [x] Facebook page (id 61594333997519)
+- [x] YouTube channel UCeb5TiEV0HajChm5p1zjoGw
+- [x] Domain munchlings.de
+- [ ] Profile pictures and banners uploaded (the files are in `brand/`)
 
 **Write down the handles you actually got and send them to me.**
