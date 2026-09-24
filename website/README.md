@@ -16,7 +16,7 @@ Open `impressum.html` and `datenschutz.html` and replace **every** yellow `[…]
 
 1. Open FileZilla and enter your **FTP host, username and password**. Your hosting company gives you these.
 2. On the right (the server side), open the web folder. It's often called `public_html`, `htdocs` or `www`.
-3. Drag **everything inside this `website/` folder** into it. That means `index.html`, `impressum.html`, `datenschutz.html`, `en/` and `assets/`.
+3. Drag **everything inside this `website/` folder** into it. That means `index.html`, `impressum.html`, `datenschutz.html`, `rezepte/`, `en/` and `assets/`.
 4. Open https://www.munchlings.de and check that the characters show up.
 
 ## Files
@@ -24,9 +24,17 @@ Open `impressum.html` and `datenschutz.html` and replace **every** yellow `[…]
 ```
 index.html          German homepage
 en/index.html       English homepage
+rezepte/            German recipe pages (one per episode, printable)
+en/recipes/         English recipe pages
 impressum.html      Impressum (fill in your details first)
 datenschutz.html    Privacy policy (fill in your details first)
 assets/style.css    Design
 assets/fonts/       Fredoka and Nunito (self-hosted)
 assets/img/         Logo, favicon, link preview picture, 5 character drawings
 ```
+
+## Adding a recipe for a new episode
+
+The recipe pages are made by `tools/make_recipes.py` (in the repo, not on the server). Add the new recipe to the `RECIPES` list and run `python3 tools/make_recipes.py`. Then upload the `rezepte/` and `en/recipes/` folders again.
+
+Each recipe page has Google's Recipe markup, so it can show up in Google's recipe results. For that, Google wants a real photo: once you've filmed the recipe, save one photo of the finished food and I'll add it to the page.
