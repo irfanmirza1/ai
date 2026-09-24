@@ -310,3 +310,14 @@ These channels get views but don't keep subscribers, because the stories don't c
 
 - **English is less crowded than Hindi.** Use English as the main language, and let YouTube auto-dub into Hindi, Urdu, Spanish and Portuguese.
 - **The biggest audiences for kids' keywords are in India, Pakistan and the US.**
+
+---
+
+## 10. Language decision (24 Sep 2026)
+
+**German is the main language, and English is added as a second audio track on the same videos.**
+
+- **Why German first:** vidIQ found almost no German animated food channels for kids. German vegetable-recipe channels are growing fast; for example, *Köstliche Gemüse* started in 2025 and already has 87K subscribers and 19M views.
+- **Why keep English:** it reaches a much bigger worldwide audience and pays more per view. vidIQ estimates about **$1,520** a month for 1M English views, compared with about **$990** for 1M German views.
+- **How it works:** Jogg's talking shots are made in German, so the mouths match German. The English track is added in YouTube Studio → Languages. YouTube's auto-dub covers the other languages.
+- **The German lines** for Episodes 1–3 are in `episodes-1-3-de.md`.
