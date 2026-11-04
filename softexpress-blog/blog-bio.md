@@ -35,12 +35,28 @@ Meta-Beschreibung (147 Zeichen):
 Hardware, Software und IT-Sicherheit verständlich erklärt – für Unternehmen und öffentliche Auftraggeber. Der Blog der SoftExpress GmbH, seit 1991.
 ```
 
-## 3. Kurz-Bio (Autorenbox)
+## 3. Autoren-Bio (Benutzer „softexpress“)
 
-**WordPress:** Benutzer → Profil (Benutzer „softexpress“) → Biografische Angaben
+**WordPress:** Benutzer → Profil (Benutzer „softexpress“)
+
+| Feld | Eintrag |
+|---|---|
+| Spitzname | `SoftExpress Redaktion` |
+| Öffentlicher Name | `SoftExpress Redaktion` |
+| Website | `https://www.softexpress.de` |
+| LinkedIn (Yoast/Rank Math field) | `https://de.linkedin.com/company/softexpress-gmbh` |
+| Profilbild | SoftExpress logo, set via Gravatar for the account's email address |
+
+Biografische Angaben:
 
 ```
-SoftExpress ist ein inhabergeführtes IT-Handelsunternehmen aus Greimerath in Rheinland-Pfalz. Seit 1991 beliefern wir gewerbliche Endkunden und öffentliche Auftraggeber mit Hardware, Software, IT-Verbrauchsmaterial sowie Kabel- und Netzwerktechnik. In unserem Blog teilen wir Produktneuheiten, Praxiswissen und Tipps für den professionellen IT-Einkauf.
+Die SoftExpress Redaktion schreibt über Hardware, Software und IT-Sicherheit für Unternehmen und öffentliche Auftraggeber. Hinter dem Blog steht die SoftExpress GmbH aus Greimerath in Rheinland-Pfalz – ein inhabergeführtes IT-Handelsunternehmen, das seit 1991 gewerbliche Endkunden, Forschung & Lehre, Gesundheitswesen, Kirchen & Wohlfahrt sowie die öffentliche Verwaltung mit IT-Produkten beliefert.
+```
+
+Short version, for themes that only show one or two lines:
+
+```
+Die SoftExpress Redaktion schreibt über Hardware, Software und IT-Sicherheit für Unternehmen und öffentliche Auftraggeber – vom IT-Handelsunternehmen SoftExpress GmbH aus Greimerath, seit 1991.
 ```
 
 ## 4. Lange Version – Seite „Über diesen Blog“
